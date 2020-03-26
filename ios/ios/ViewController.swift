@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  Glowing succotash
+//  ios
 //
-//  Created by Victoria Grönqvist on 2020-03-12.
+//  Created by Victoria Grönqvist on 2020-03-26.
 //  Copyright © 2020 Victoria Grönqvist. All rights reserved.
 //
 
